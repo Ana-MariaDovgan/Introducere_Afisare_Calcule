@@ -1,3 +1,6 @@
+De la tastatură se întroduce numărul de rînd al culorii curcubeului. De afişat
+denumirea culorii. Convenim că culoarea roşie are numărul de rînd 1.
+
 n=int(input("dati numarul culorii curcubeului: "))
 if (n == 1):
     print("culoarea rosie")
