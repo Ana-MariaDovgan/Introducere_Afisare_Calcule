@@ -1,0 +1,5 @@
+a =int(input("dati numarul de oua facute de 1 gaina in fiecare zi : "))
+b =int(input("dati numarul de oua facute de 2 gaina in fiecare zi : "))
+c =int(input("dati numarul de oua facute de 3 gaina in fiecare zi : "))
+d =int(input("dati numarul de oua facute de 4 gaina in fiecare zi : "))
+print("Numarul de oua facute de toate gainile impreuna este ", 7 * (a + b + c + d))
